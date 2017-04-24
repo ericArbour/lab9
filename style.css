@@ -1,0 +1,27 @@
+body {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 40px;
+}
+nav {
+  position: fixed;
+  height: 100%;
+  background-color: #2a3544;
+  color: #2a3544;
+  width: 6em;
+  padding: 1px 0 1px 0;
+}
+.nav-top {
+  list-style-type: none;
+  text-align: center;
+  width: 4em;
+  height: 1.5em;
+  background-color: #727f91;
+  border-radius: 10px;
+  margin: 2px;
+}
+.mid-nav {
+  background-color: white;
+  display: none;
+  font-size: 30px;
+  margin-left: 20px;
+}
